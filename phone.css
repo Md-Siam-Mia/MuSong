@@ -1,0 +1,14 @@
+div.product-list {
+    justify-content: center;
+}
+
+div#most-listening {
+    height: auto;
+}
+div#most-listening img {
+    height: auto;
+    width: auto;
+}
+div#quick-links{
+    text-align: center;
+}
